@@ -1,5 +1,5 @@
 {
-  "name": "discord.js-heroku",
+  "name": "botbender",
   "version": "1.0.0",
   "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
   "main": "bot.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
+    "url": "git+https://github.com/LaBanane27/botbender.git"
   },
   "keywords": [
     "heroku",
     "discord.js"
   ],
-  "author": "synicalsyntax",
+  "author": "LaBanane",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/LaBanane27/botbender"
