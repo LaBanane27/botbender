@@ -254,4 +254,4 @@ bot.on("guildMemberAdd", member => {
 })
 
 
-bot.login("NDc1NjczNjU4OTcxNjUyMTA5.DlwEYA.b4J-PZ0n0OeYWhf-c7oJFpB3IgM"); 
+bot.login(process.env.TOKEN); 
